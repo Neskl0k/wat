@@ -1,0 +1,56 @@
+img
+    {float: right;}
+
+h1, h2
+    {text-align: center;
+    text-transform: capitalize;
+    text-shadow: 2px 2px lightgray;
+    text-size-adjust: 2.5em;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(173, 200, 230);
+    border-radius: 20px;
+    }
+p
+    {text-align: center;
+    }
+
+#thedad
+    {text-shadow: 1px 1px darkgrey;
+    font-weight: bold;
+    font-size: 1.26em;}
+
+#no
+    {text-shadow: 1px 1px darkred;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+    font-size: 2em;}
+
+#whogivesashit
+    {text-shadow: 1px 1px darkred;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+    font-size: 3em;
+    }
+
+#thebabies
+    {
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        text-shadow: 1px 1px gray;
+    }
+
+#boxes
+    {
+        background-color: rgb(167, 241, 250);
+        padding: 5px;
+        border-radius: 20px;
+    }
+
+#footer
+    {
+        background-color: aquamarine;
+        border-radius: 10px;
+    }
+
